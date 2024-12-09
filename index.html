@@ -8,14 +8,81 @@
     <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
-    <h1>Interactive Charts</h1>
-    <p>This visualization explores the relationship between contextual indicators and birth rates.</p>
+    <h1>Why Women Are Less Willing To Have Children Nowadays?</h1>
+    
+    <div id="fertility-visualization">
+        <svg></svg>
+        <p>
+            From 1950 to 2023, most countries experienced a significant reduction in women's fertility rates,
+            with the majority seeing a relative decrease of 50% to 75%. 
+            This decline is influenced by a range of social factors. For instance, in China,
+            the percentage of people under 30 who didn't want children rose from 4.5% in 2019 to 9.5% just two years later. 
+            I aim to investigate how changes in the roles of women affect fertility rates and their willingness to have children. 
+            Understanding these factors can shed light on the complex interplay between societal shifts and individual choices regarding childbirth.
+        </p>
+    </div>
 
-    <!-- Chart Containers -->
-    <div id="chart1"></div>
-    <div id="chart2"></div>
-    <div id="chart3"></div>
+    <div id="influencing-factor-visualization">
+        <svg></svg>
+    </div>
 
-    <script src="script.js"></script>
+    <div>
+        <p>
+            Work-life conflict significantly affects fertility rates, as increased female labor force participation often 
+            correlates with declining fertility. However, regional differences arise due to variations in development and the nature of working sectors. 
+            Developed regions like Europe and North America exhibit lower fertility rates despite high workforce participation. This can result from inadequate 
+            childcare and parental leave support. In contrast, Africa sees higher fertility rates with lower female labor participation, which reflects the  traditional 
+            family structures and informal economic roles. Regions like Asia and South America show mixed patterns influenced by cultural and economic factors, 
+            while Oceania demonstrates how balanced policies can mitigate work-life conflict.
+        </p>
+        </div>
+
+    <div id="chart0">
+        <svg></svg>
+        <h2>Education Attainment and Fertility Rate</h2>
+    </div>
+
+    <div>
+        <p>
+            Regions with higher educational attainment generally exhibit lower fertility rates, 
+            For instance, countries like the United States, with 13.4 average years of education, have a fertility rate of 1.67, 
+            reflecting this inverse trend. Conversely, regions with smaller bubbles (lower educational attainment) tend to have higher 
+            fertility rates, evident in their darker-colored circles. In developed countries, women's increasing emphasis on career development
+            plays a significant role in reducing their willingness to have children. Higher levels of education and professional 
+            opportunities often lead to delayed marriage and childbearing, as women prioritize establishing their careers and achieving financial stability. 
+        </p>
+    </div>
+
+
+    <div id="selected-countries-visualization">
+        <svg></svg>
+    </div>
+    <div>
+        <p>
+            Japan, Spain, South Korea, and Singapore stand out as the countries with highest workforce engagement(more than 50%) and lowest birth rates(less than 1.5). 
+            This trend underscores the profound impact of work-life conflict, where the pressures of balancing professional ambitions with family r
+            esponsibilities leave many women less inclined to have children. 
+        </p>
+    </div>
+
+    <div id="selected-countries-education-visualization">
+        <svg></svg>
+    </div>
+
+    <div>
+        <p>
+            The fertility rates of Japan, South Korea, Singapore, and Canadahave have fallen below 1.5, 
+            coupled with women attaining more than 12 years of education. This shows the link between higher education levels and declining birth rates. 
+            As women pursue advanced education, they often delay starting families, prioritizing personal and professional growth. 
+            This trend reflects how educational attainment reshapes life priorities, often reducing the willingness to have children. 
+        </p>
+    </div>
+
+    <script src="fertility_trend.js"></script>
+    <script src="influencing_factors.js"></script>
+    <script src = "education_fertility.js"></script>
+    <script src="selected_countries_laborforce.js"></script>
+
+    <script src="selected_countries_education.js"></script>
 </body>
 </html>

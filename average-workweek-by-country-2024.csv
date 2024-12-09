@@ -1,0 +1,189 @@
+"country","AvgWorkWeek_AvgWeeklyHoursWorkedAllGenders_ILOSTAT_Est2024","AvgWorkWeek_AvgWeeklyHoursWorkedMales_ILOSTAT_Est2024","AvgWorkWeek_AvgWeeklyHoursWorkedFemales_ILOSTAT_Est2024","AvgWorkWeek_AvgYearlyHoursWorked_OECD_2024Update"
+"India",46,49.9,36,
+"China",45,45.7,44.1,
+"United States",36.4,38.5,34.1,1810.9
+"Indonesia",37.4,39.2,34.8,
+"Pakistan",46.6,50.3,34.2,
+"Nigeria",43.4,43.7,42.9,
+"Brazil",37.9,39.8,35.4,
+"Bangladesh",45.8,49.9,36.9,
+"Russia",38.1,39.2,36.9,1874
+"Ethiopia",30.1,32.7,27.2,
+"Mexico",42.7,45.8,38,2226.3
+"Japan",36.7,41.3,31.1,1607
+"Egypt",45.5,46.8,39.4,
+"Philippines",39.6,39.4,40,
+"DR Congo",34.4,35.5,33.4,
+"Vietnam",41.8,42.6,40.9,
+"Iran",44.1,46.4,31.8,
+"Turkey",43.7,45.4,40.3,1732.1
+"Germany",29.7,33.4,25.4,1340.9
+"Thailand",41.7,41.8,41.6,
+"United Kingdom",30.7,34.1,27,1531.7
+"Tanzania",39.7,43.3,35.9,
+"France",30.7,33.5,27.9,1511.4
+"South Africa",41.7,43.8,39.1,
+"Italy",34,37.2,29.7,1694.5
+"Kenya",45.1,47.9,42.2,
+"Myanmar",40.9,41.8,39.4,
+"Colombia",42.6,45,39,2405.4
+"South Korea",37.9,40.2,34.8,1901
+"Sudan",39.6,41.8,33,
+"Uganda",38.7,39.8,37.5,
+"Spain",32.1,34.3,29.4,1643.5
+"Algeria",44,45.6,36,
+"Iraq",30.4,32.1,17.4,
+"Argentina",35.4,39.1,30.3,
+"Afghanistan",38.3,39.6,15.8,
+"Yemen",25.4,25.9,17.8,
+"Canada",32.3,35.1,29.1,1686
+"Poland",36.7,38.9,34,1814.8
+"Morocco",43.9,46.6,34.4,
+"Angola",39.3,41.2,37.4,
+"Ukraine",38.5,41.6,35.1,
+"Uzbekistan",39.8,42.5,35,
+"Malaysia",44.4,45.2,43.3,
+"Mozambique",29.4,33.6,25.4,
+"Ghana",31.9,33.8,29.8,
+"Peru",38.4,41.5,34.7,
+"Saudi Arabia",41.2,42,37.9,
+"Madagascar",31.5,33.5,29.4,
+"Ivory Coast",44,46.3,41,
+"Nepal",39.7,42.6,34.7,
+"Cameroon",42.5,44.6,40.1,
+"Venezuela",39.1,40.3,37,
+"Niger",38.9,42.8,33.4,
+"Australia",32.8,36.5,28.5,1707.3
+"North Korea",39.8,42.4,36.9,
+"Syria",25.3,26.9,17.1,
+"Mali",42.4,46.4,36,
+"Burkina Faso",43.4,46.4,39.8,
+"Taiwan",37.7,40.3,34.3,
+"Sri Lanka",41.2,43.6,36.2,
+"Malawi",30.2,33.6,26.5,
+"Zambia",42.4,44.5,39.8,
+"Kazakhstan",37.9,39.3,36.4,
+"Chad",40.4,42,38.2,
+"Chile",37.5,40,34.1,1962.8
+"Romania",38.9,39.6,37.9,1808.2
+"Somalia",29.6,30.5,27.4,
+"Senegal",44.2,48.3,37.7,
+"Guatemala",39.4,40.7,36.8,
+"Netherlands",26.7,30.8,22.1,1427
+"Ecuador",38.6,42.5,33,
+"Cambodia",44.6,44.7,44.3,
+"Zimbabwe",37.1,40.5,33.6,
+"Guinea",38.1,40.2,34.9,
+"Benin",38.9,41.4,36,
+"Rwanda",29.9,31.9,27.6,
+"Burundi",39.7,41,38.4,
+"Bolivia",39,42.1,34.8,
+"Tunisia",43.6,44.4,41.2,
+"South Sudan",40.1,43.7,36.5,
+"Haiti",40.4,40.9,39.8,
+"Belgium",31.5,35.2,27.3,1525.8
+"Jordan",47,48.1,41.3,
+"Dominican Republic",39.2,41.4,35.8,
+"United Arab Emirates",52,50.9,57.1,
+"Cuba",41,43,37.6,
+"Honduras",39.9,41.6,37.3,
+"Czech Republic",35.2,37.1,32.7,1754.1
+"Sweden",29.2,31.4,26.8,1440.5
+"Tajikistan",39.6,42.2,35.5,
+"Papua New Guinea",41.8,44.1,39.5,
+"Portugal",33.8,35.4,32.1,1635.1
+"Azerbaijan",34.4,35.5,33.2,
+"Greece",37.8,40.3,34.6,1886.3
+"Hungary",36.2,37.5,34.8,1699.6
+"Togo",43.4,45.1,41.5,
+"Israel",35.6,39.4,31.4,1891.9
+"Austria",29.4,33.2,25,1443.7
+"Belarus",35.6,38,33.3,
+"Switzerland",34.1,38.9,28.6,1528.7
+"Sierra Leone",42.6,44.8,40.3,
+"Laos",41.2,41.4,40.9,
+"Turkmenistan",40.8,44,38,
+"Hong Kong",41.8,42.3,41.3,
+"Libya",44.8,46.9,40.7,
+"Kyrgyzstan",34.3,37.9,29.3,
+"Paraguay",41.2,43.7,37.8,
+"Nicaragua",36.6,39.9,31.3,
+"Bulgaria",38.2,38.9,37.5,1618.7
+"Serbia",39.6,41.5,37.4,
+"El Salvador",43.1,44.3,41.4,
+"Republic of the Congo",47.9,48.3,47.5,
+"Denmark",29.5,32.2,26.5,1371.6
+"Singapore",45.1,46.7,42.8,
+"Lebanon",48,51.2,40.8,
+"Finland",28.9,31.3,26.4,1498.1
+"Liberia",48,49.6,46.2,
+"Norway",27.1,29.7,24.3,1424.6
+"Slovakia",33.7,36.3,30.7,1622.1
+"Palestine",39,40.5,31.4,
+"Central African Republic",39.6,42,36.7,
+"Oman",43.9,45.2,37,
+"Ireland",31,35.4,26.1,1657.5
+"New Zealand",33.6,37.5,29.2,1748
+"Mauritania",38.5,38.9,37.5,
+"Costa Rica",41.3,44.5,36.3,2149
+"Kuwait",44.4,46,39.4,
+"Panama",34.4,35.8,32.2,
+"Croatia",34.4,35.9,32.7,1810.5
+"Georgia",37,40.5,33.1,
+"Eritrea",35.3,37.7,32.5,
+"Mongolia",46.4,48.9,43.2,
+"Uruguay",33.7,37,29.6,
+"Puerto Rico",37.5,39.5,34.8,
+"Bosnia and Herzegovina",40.9,41.4,40.1,
+"Qatar",48.2,48.2,48.3,
+"Moldova",38.3,39.7,37.1,
+"Namibia",42.9,44.9,40.9,
+"Armenia",36,39.9,32.6,
+"Lithuania",34.7,36.6,32.6,1624.2
+"Jamaica",42.5,43.8,40.8,
+"Albania",40.8,42.6,38.5,
+"Gambia",37.7,43.9,30.9,
+"Gabon",42.3,44,39.1,
+"Botswana",43.7,46,41,
+"Lesotho",49.5,51,47.6,
+"Guinea-Bissau",36.4,39,33.1,
+"Slovenia",34.6,36.4,32.4,1619
+"Equatorial Guinea",41.6,43.7,38.7,
+"Latvia",33.2,34.8,31.6,1553.2
+"North Macedonia",37.6,38,37.1,
+"Bahrain",40.6,42,35.6,
+"Trinidad and Tobago",38.5,40.4,36,
+"Timor-Leste",32.4,33.6,31,
+"Estonia",32,34,30,1770.4
+"Cyprus",34.6,36.3,32.6,1837.1
+"Mauritius",39.5,40.5,37.9,
+"Eswatini",44,46.8,40.7,
+"Djibouti",30.6,31.7,27.5,
+"Fiji",34.2,35.8,30.9,
+"Comoros",36.8,38.2,34.3,
+"Guyana",40.9,43.3,37.3,
+"Solomon Islands",35.4,36,34.8,
+"Bhutan",54.3,55,53.5,
+"Macau",44.9,44.8,44.9,
+"Luxembourg",30.7,33.7,27.3,1473.3
+"Montenegro",42.7,44.1,41,
+"Suriname",38.8,42,34,
+"Western Sahara",41.9,43.9,34.4,
+"Malta",33.8,35.7,31.1,1881.9
+"Maldives",45.2,48.9,35.8,
+"Cape Verde",42.9,44.1,41.5,
+"Brunei",46.6,47.6,45.3,
+"Belize",40.2,42.3,36.6,
+"Bahamas",39,41.3,36.5,
+"Iceland",32.9,36.7,28.6,1449.2
+"Vanuatu",27.6,27.2,28.2,
+"New Caledonia",35.4,37.4,33.1,
+"Barbados",38,40.2,35.7,
+"French Polynesia",35.2,37.3,32.5,
+"Sao Tome and Principe",41.4,44,35.9,
+"Samoa",43.7,44.5,42.4,
+"Saint Lucia",39.6,40,39.3,
+"Guam",36.9,39.4,33.9,
+"Tonga",31.5,32.4,30.3,
+"Saint Vincent and the Grenadines",41.2,44.4,36.8,
+"United States Virgin Islands",35.3,37.7,32.2,
